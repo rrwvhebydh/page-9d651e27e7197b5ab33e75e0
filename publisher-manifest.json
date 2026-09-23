@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "39d455dde94b35aba9089c57",
+  "owner": "rrwvhebydh",
+  "repo": "page-9d651e27e7197b5ab33e75e0",
+  "title": "UAPLink",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9d651e27e7197b5ab33e75e0",
+      "a": "UAPLink",
+      "b": "机场官网线路发布页",
+      "entity": "UAPLink",
+      "brand": "UAPLink",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "1ddf011726464157192bdfd17525fd63d420390879949b7c78ae1f8c7e3b240a",
+      "content": {
+        "primary_entity": "UAPLink",
+        "keyword1": "UAPLink",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，这份内容围绕 UAPLink 海外加速器的订阅选择与客户端配置展开。三档套餐分别对应不同流量与在线设备数，基础版适合个人日常，旗舰版兼顾流媒体与游戏优化，团队版面向多设备协作场景。导入订阅前先确认当前设备系统与所用客户端的兼容要求，再按文档填写订阅地址，即可开始使用。",
+          "AI_HERO_SUBTITLE": "多设备可用的海外加速订阅",
+          "AI_HERO_INTRO": "UAPLink 提供按月或按年订阅的海外加速服务，套餐按流量和在线设备数划分。选择套餐前理清日常用量与设备数量，再对照客户端说明完成订阅导入，整个过程简单直接。",
+          "AI_VISUAL_TITLE": "UAPLink 订阅与线路选择",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数划分",
+          "AI_HIGHLIGHT_2": "支持主流客户端按文档配置订阅",
+          "AI_HIGHLIGHT_3": "月付与年付两种计费周期可选",
+          "AI_FEATURES_TITLE": "UAPLink 套餐与使用要点",
+          "AI_FEATURES_INTRO": "从流量需求、在线设备数量和订阅周期三个角度，找到适合自己的方案。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TEXT_1": "100GB 满足日常浏览，300GB 适合多场景，1000GB 面向重度使用。",
+          "AI_FEATURE_TITLE_2": "按设备数匹配",
+          "AI_FEATURE_TEXT_2": "3 台、5 台、20 台在线设备限制，对应个人、家庭与团队场景。",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_FEATURE_TEXT_3": "月付随时体验，年付折算更低，基础版年付 ¥150、旗舰版 ¥350。",
+          "AI_PLANS_TITLE": "UAPLink 套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月配 100GB 与 3 台设备；旗舰版 ¥35/月配 300GB、5 台设备与游戏优化线路；团队版 ¥85/月配 1000GB 与 20 台设备。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同系统对应不同客户端，导入订阅前先确认所在平台与文档说明，再按步骤配置。",
+          "AI_GUIDE_TITLE": "三步完成订阅配置",
+          "AI_GUIDE_INTRO": "先选套餐，再核对设备与客户端适配要求，最后按客户端文档导入订阅并测试连接。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TEXT_1": "根据每月用量和在线设备数量，从基础版、旗舰版、团队版中确定一档。",
+          "AI_STEP_TITLE_2": "确认适配",
+          "AI_STEP_TEXT_2": "核对当前系统与计划使用的客户端版本，确认订阅格式与配置方式。",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_STEP_TEXT_3": "依照所选客户端的文档填写订阅地址，保存后测试连接是否正常。",
+          "AI_FAQ_TITLE": "UAPLink 常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "UAPLink 套餐如何选择？",
+          "AI_FAQ_ANSWER_1": "先看每月大致流量和同时在线设备数。100GB 与 3 台设备对应基础版，300GB 与 5 台设备对应旗舰版，需要 1000GB 和 20 台设备则选团队版。",
+          "AI_FAQ_QUESTION_2": "订阅可以导入哪些客户端？",
+          "AI_FAQ_ANSWER_2": "按客户端文档选择对应系统的版本，不同平台配置方式略有差异。导入前确认订阅格式与客户端要求的字段一致，再保存并测试连接。",
+          "AI_FAQ_QUESTION_3": "同时在线设备数量怎么计算？",
+          "AI_FAQ_ANSWER_3": "以同一时间保持连接的设备台数为准，基础版 3 台、旗舰版 5 台、团队版 20 台。超出数量可升级套餐，或在设备上关闭不需要的连接。",
+          "AI_FAQ_QUESTION_4": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_4": "月付按月续费，适合先体验；年付折算单价更低，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。长期使用可选年付节省开支。",
+          "AI_FAQ_QUESTION_5": "线路和节点如何区分？",
+          "AI_FAQ_ANSWER_5": "基础版使用普通线路节点池，旗舰版提供流媒体解锁与 IPLC 专线游戏优化，团队版配有 VIP 高带宽节点。按使用场景选择对应套餐即可。",
+          "AI_CLOSING_TITLE": "选对套餐，顺畅连接",
+          "AI_CLOSING_TEXT": "对照流量与设备数量确定方案，按客户端文档导入订阅，即可开始使用 UAPLink。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ccvljlja.cn",
+    "host": "ccvljlja.cn"
+  },
+  "file_hashes": {
+    "index.html": "a43c89a50c6eefe9d9569c71da4fce468f67fac1fde0f4f8e296f1078be4cfca",
+    "sitemap.xml": "c4db693d7f0ea7c20681a116e7fd57d17bf3d94d2cfde531a334ee3130a80647",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ef8c7e7fb96a9b11d62115cc51993f85d680dd25f4a0756c6d1253ac1ca1efd4",
+    "robots.txt": "92c6159a3ed439f1f4a2f1f8dc5686d290ac8e1677bb2abb94e54a1611645016",
+    "a84ad30a1d3d51586a172dbf7c4d5a85.txt": "4f5393db08f5935116ebabb411d17b2088a7810ea294abdd250f654d7321178d"
+  },
+  "revision": "87697c1829e9b5e8da3c470ca4b60bf03d07de864a9ae2dd24f885cdb5d8dda0"
+}
